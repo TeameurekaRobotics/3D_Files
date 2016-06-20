@@ -1,2 +1,2 @@
 # 3D_Files
-AutoCad, GoogleDraw and STL type files for design and creation.
+AutoCad, Google Sketchup project and STL type files for design and creation.
